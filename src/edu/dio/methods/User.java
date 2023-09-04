@@ -1,5 +1,15 @@
 package edu.dio.methods;
-
+/**
+* <h1>User</h1>
+* O usuario é quem controla todas as interações realizadas com a televisão
+* <p>
+* <b>Note:</b> Leia atentamente a documentação desta classes
+* para desfrutar dos recursos oferecidos pelo autor
+*
+* @author  Enzo Oliveira
+* @version 1.0
+* @since   04/09/2023
+*/
 public class User {
 	public static void main(String[] args) {
 	

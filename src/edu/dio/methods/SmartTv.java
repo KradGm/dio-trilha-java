@@ -24,6 +24,10 @@ public class SmartTv {
 	public void decreaseChannel() {
 		channel--;
 	}
+	/**
+	   * Este método é utilizado trocar de canal da SmartTv
+	   * @param newChannel é o parametro de escolha para o proximo canal
+	   */
 	public void changeChannel(int newChannel) {
 		channel = newChannel;
 	}
