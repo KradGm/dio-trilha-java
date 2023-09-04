@@ -18,6 +18,7 @@ public class User {
 		System.out.println("Status On/Off: "+smartTv.isOn);
 		System.out.println("Status Channel: "+smartTv.channel);
 		System.out.println("Status Vol: "+smartTv.volume);
+		
 		smartTv.changeChannel(15);
 		System.out.println("New Status Channel: "+smartTv.channel);
 

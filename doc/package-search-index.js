@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"TiposEVariaveis","l":"edu.dio.methods"}];updateSearchResults();
