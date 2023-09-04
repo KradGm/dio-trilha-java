@@ -100,5 +100,22 @@ public class Operators {
 		String nameTwo = new String("Enzo");
 		System.out.println(nameOne.equals(nameTwo));
 
+		//OPERADORES LOGICOS
+		boolean condition=true;
+
+		boolean condition2=false;
+
+		/* Aqui estamos utilizando o operador lógico E para fazer a união de duas 
+		expressões. 
+		É como se estivesse escrito:
+		 "Se Condicao1 e Condicao2 forem verdadeiras, executar código"
+		*/
+
+		if(condition && condition2)
+			System.out.print("Os dois valores precisam ser verdadeiros");;
+
+		//Se condicao1 OU condicao2 for verdadeira, executar código.
+		if(condition || condition2)
+			System.out.print("Um dos valores precisa ser verdadeiro");
 	}
 }
